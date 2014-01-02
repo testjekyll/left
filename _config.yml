@@ -95,6 +95,11 @@ prose:
           element: checkbox
           label: "Comments"
           value: "true"
+      - name: "published"
+        field:
+          element: checkbox
+          label: "visible"
+          value: "true"
       - name: "title"
         field:
           element: "text"
